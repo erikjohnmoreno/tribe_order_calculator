@@ -1,5 +1,4 @@
 require 'rspec'
-require 'pry' # for breakpointing
 
 class TribeOrderCalculator
   BUNDLE_INFO = {
